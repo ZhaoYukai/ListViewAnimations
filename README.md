@@ -1,6 +1,8 @@
 ListViewAnimations ([Play Store Demo][1]) [![Build Status](https://travis-ci.org/nhaarman/ListViewAnimations.svg?branch=master)](https://travis-ci.org/nhaarman/ListViewAnimations)
 ===========
 
+ListView的展示动画
+
 ListViewAnimations is an Open Source Android library that allows developers to easily create ListViews with animations.
 Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.
 
